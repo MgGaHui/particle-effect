@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "lib": "vue-cli-service build --target lib --name particle-effect --dest lib src/packages/particle-effect/index.vue"
   },
   "dependencies": {
     "core-js": "^3.4.4",
@@ -39,7 +40,7 @@
     "last 2 versions"
   ],
   "description": "## Project setup ``` npm install ```",
-  "main": "babel.config.js",
+  "main": "src/packages/particle-effect/index.vue",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MgGaHui/particle-effect.git"

@@ -1,7 +1,17 @@
+# 忽略目录
+node_modules/
+public/
+examples/
+!src/packages/particle-effect/index.vue
+
+# 忽略指定文件
+vue.config.js
+babel.config.js
+*.map
+*.idea
 .DS_Store
 node_modules
 /dist
-lib
 
 # local env files
 .env.local
@@ -20,3 +30,4 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
