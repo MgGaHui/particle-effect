@@ -1,6 +1,6 @@
 {
-  "name": "particle-effect",
-  "version": "1.0.3",
+  "name": "particle-effect-bg",
+  "version": "1.0.4",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -20,9 +20,6 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "vue-template-compiler": "^2.6.10"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "eslintConfig": {
     "root": true,
