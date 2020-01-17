@@ -4,15 +4,16 @@
   </div>
 </template>
 
-<script>/**/
-import ParticleEffect from '@/packages/particle-effect'
-
-export default {
-  name: 'app',
-  components: {
-    'particle-effect': ParticleEffect
+<script>
+  // import ParticleEffect from '@/packages/index.js'
+  export default {
+    name: 'app',
+    components: {
+      // 'particle-effect': ParticleEffect.ParticleEffect
+    },
+    mounted() {
+    }
   }
-}
 </script>
 
 <style>
