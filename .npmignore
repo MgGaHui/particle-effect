@@ -3,7 +3,7 @@ node_modules/
 public/
 examples/
 !src/packages/particle-effect/index.vue
-
+lib/
 # 忽略指定文件
 vue.config.js
 babel.config.js

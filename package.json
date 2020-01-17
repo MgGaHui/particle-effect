@@ -1,6 +1,6 @@
 {
   "name": "particle-effect-bg",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,10 +9,10 @@
     "lib": "vue-cli-service build --target lib --name particle-effect --dest lib src/packages/particle-effect/index.vue"
   },
   "dependencies": {
-    "core-js": "^3.4.4",
-    "vue": "^2.6.10"
   },
   "devDependencies": {
+    "core-js": "^3.4.4",
+    "vue": "^2.6.10",
     "@vue/cli-plugin-babel": "^4.1.0",
     "@vue/cli-plugin-eslint": "^4.1.0",
     "@vue/cli-service": "^4.1.0",
