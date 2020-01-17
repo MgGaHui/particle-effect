@@ -1,5 +1,5 @@
 {
-  "name": "partical-effect",
+  "name": "particle-effect",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -42,16 +42,16 @@
   "main": "babel.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MgGaHui/partical-effect.git"
+    "url": "git+https://github.com/MgGaHui/particle-effect.git"
   },
   "keywords": [
     "粒子特效",
-    "partical-effect"
+    "particle-effect"
   ],
   "author": "mggahui",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MgGaHui/partical-effect/issues"
+    "url": "https://github.com/MgGaHui/particle-effect/issues"
   },
-  "homepage": "https://github.com/MgGaHui/partical-effect#readme"
+  "homepage": "https://github.com/MgGaHui/particle-effect#readme"
 }

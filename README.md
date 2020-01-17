@@ -1,4 +1,4 @@
-# partical-effect
+# particle-effect
 
 ## Project setup
 ```
