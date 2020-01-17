@@ -1,7 +1,7 @@
 {
   "name": "partical-effect",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -37,5 +37,21 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MgGaHui/partical-effect.git"
+  },
+  "keywords": [
+    "粒子特效",
+    "partical-effect"
+  ],
+  "author": "mggahui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MgGaHui/partical-effect/issues"
+  },
+  "homepage": "https://github.com/MgGaHui/partical-effect#readme"
 }
